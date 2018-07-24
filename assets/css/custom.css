@@ -91,7 +91,7 @@ a{
 }
 
 /* Larger than tablet */
-@media (min-width: 100px) {
+@media (min-width: 50px) {
   /* Navbar */
   .navbar + .docs-section {
     border-top-width: 0; }
