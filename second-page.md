@@ -1,10 +1,7 @@
 ---
 layout: page
 title: "second page"
-category: 
-tagline: 
-tags : [] 
-published: false
+published: true
 ---
 
 # This is to try out separate pages
