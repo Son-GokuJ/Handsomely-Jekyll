@@ -11,3 +11,6 @@ This is my first try at travell-blogging !
 ### Contact me
 
 [songoku241991@gmail.com](mailto:songoku241991@gmail.com "Mail to Son-GokuJ")
+
+---
+Website build using the *Handsomely* Theme in Jekyll hosted on GitHub
