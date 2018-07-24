@@ -1,6 +1,7 @@
 ---
 layout: post
 title: normal post
+feature: false
 ---
 
 this is a post without any images
