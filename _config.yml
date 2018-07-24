@@ -6,7 +6,7 @@ title: Travell Blog
 site-description:  by Son-GokuJ
 email: son-goku241991@gmail.com
 description: "small description about you will take you long"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://son-gokuj.github.io/second-page.html" # the subpath of your site, e.g. /blog
 url: "Son-GokuJ.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 email_username: son-goku241991@gmail.com #Your email address
 twitter_username:  #Twitter Username goes here
