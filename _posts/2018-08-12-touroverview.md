@@ -37,7 +37,7 @@ Da ich diesen Blog von meinem Handy aus bearbeiten kann hoffe ich diesen Blog ak
 
 Schauen Sie sich die *About* Seite an. Ich freue mich auf ihre Nachrichten.
 
-**Wir sehen uns auf dem Weg**
+**Wir sehen uns auf dem Weg !**
 
 <img src="{{ site.baseurl}}/assets/images/tourmap.jpg" class="u-full-width" />
 
