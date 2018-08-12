@@ -1,7 +1,7 @@
 ---
 layout: page
-title: That's me
-permalink: /thatsme/
+title: About
+permalink: /about/
 ---
 # Hello World !
 Good to see you ! And thank's for visiting my website !
