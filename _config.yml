@@ -2,10 +2,10 @@
 #CMS - Jekyll
 #Developer- Deenesh Chowdhary
 #http://deeneshchowdhary.com
-title: "42 will do"
+title: '"42 will do"'
 site-description: or the Quest of finding the Answer to the Ultimate Question of Life, The Universe, and Everything
 email: son-goku241991@gmail.com
-description: "small description about you will take you long"
+description: #"small description about you will take you long"
 baseurl: # the subpath of your site, e.g. /blog
 url: "Son-GokuJ.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 email_username: son-goku241991@gmail.com #Your email address
