@@ -21,7 +21,7 @@ description: "Traveller Blog"
             </article>
              {% endif %}
            <div class="post-excerpt">
-              <a href="{{ post.url | prepend: site.baseurl }}">Continue Reading &rarr;</a>
+              <a href="{{ post.url | prepend: site.baseurl }}">Continue Reading/weiter lesen &rarr;</a>
             </div>
         </div>
 {% endfor %}    
@@ -29,10 +29,10 @@ description: "Traveller Blog"
         {% if paginator.total_pages > 1 %}
         <div class="pager">
           {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left">&larr; Newer </a>
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-left">&larr; Newer/neuer </a>
           {% endif %}
     {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-right">Older &rarr;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button u-pull-right">Older/älter &rarr;</a>
            {% endif %}
         </div>
         {% endif %}
